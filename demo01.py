@@ -14,4 +14,5 @@ la=len(a)
 lb=len(b)
 print("a的长度为：",la,"b的长度为：",lb)
 print("a与b长度之和为：",int(la+lb))
-print("exit")
+
+#print("exit")
